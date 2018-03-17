@@ -79,6 +79,9 @@ celerybeat-schedule
 # dotenv
 .env
 
+data/stackoverflow_sample_125k.tsv
+
+
 # Jupyter 
 *.DS_Store
 
